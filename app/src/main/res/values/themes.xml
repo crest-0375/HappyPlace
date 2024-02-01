@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="Theme.HappyPlaces" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimaryDark">@color/dark_olive</item>
+        <item name="colorPrimary">@color/light_olive</item>
+        <item name="colorAccent">@color/olive</item>
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSecondaryVariant">@color/dark_brown</item>
+    </style>
+
+    <style name="Theme.HappyPlaces.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimaryDark">@color/dark_olive</item>
+        <item name="colorPrimary">@color/olive</item>
+        <item name="colorAccent">@color/light_olive</item>
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSecondaryVariant">@color/dark_brown</item>
+    </style>
+</resources>
