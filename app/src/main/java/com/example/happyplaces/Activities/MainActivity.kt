@@ -25,10 +25,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AddHappyPlace::class.java)
             startActivity(intent)
         }
-        binding?.fabpageCurl?.setOnClickListener{
-            val intent = Intent(this,PageCurl::class.java)
-            startActivity(intent)
-        }
+
         getHappyPlaceFromLocalDB()
 
         val editSwipeHandler = object : SwipeToEditCallback(this) {

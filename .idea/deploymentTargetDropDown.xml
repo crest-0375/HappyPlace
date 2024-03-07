@@ -4,27 +4,18 @@
     <value>
       <entry key="app">
         <State>
-          <multipleDevicesSelectedInDropDown value="true" />
-          <runningDeviceTargetsSelectedWithDialog>
+          <runningDeviceTargetSelectedWithDropDown>
             <Target>
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\JemishAKhunt\.android\avd\Small_Phone_API_30_1.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="12738d57" />
                 </Key>
               </deviceKey>
             </Target>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\JemishAKhunt\.android\avd\Medium_Phone_API_34.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </runningDeviceTargetsSelectedWithDialog>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-09T06:18:38.055819Z" />
         </State>
       </entry>
     </value>

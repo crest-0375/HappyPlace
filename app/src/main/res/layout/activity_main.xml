@@ -14,16 +14,6 @@
         android:layout_margin="@dimen/fab_margin"
         android:contentDescription="@null"
         android:src="@drawable/add_24" />
-
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fabpage_curl"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|start"
-        android:layout_margin="@dimen/fab_margin"
-        android:contentDescription="@null"
-        android:src="@drawable/baseline_menu_book_24" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_happy_places_list"
         android:layout_width="match_parent"
